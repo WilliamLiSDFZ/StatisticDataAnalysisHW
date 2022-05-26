@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.william.data","l":"Constant"},{"p":"com.william.util","l":"Process"}];updateSearchResults();
